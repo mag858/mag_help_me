@@ -7,18 +7,17 @@
 	<meta name="Keyboards" content="sait, MAG industries, interesting, tehnology, content, startup, 3d printer, arduino, code, knowledge, machine, auto, car, help, help me, alfa bank, BNB bank, bitcoin, cripto">	
 	</head>
 	
-    <body style="background-color:#D5E7FF">
+    <body style="background-color:#CCE1FE">
     
-    <p><b><a href="https://mag858.github.io/MAG-industries/">вернуться на главную</a>&emsp;</b></p>
+    <p><b><a href="file:///Users/mihail/Desktop/MAG%20industries.html">вернуться на главную</a>&emsp;</b></p>
     
-    <center><h1><b><font color = "#F42300">
-    MAG industries</font><b>
+    <p><center><img src="sait/logo_2.jpeg" height ="400" width = "350"></center></p>
     
     
     <h2><center><b><font color = "#F3A000">future - right now</font></b></center>
 				<center><sup>(будующее - прямо сейчас)</sup></center></h2>
 				
-				<p><center><b>ПОМОЩЬ В РАЗВИТИИ</b><center>
+				<p><center><b>ПОМОЩЬ В РАЗВИТИИ</b><center></p>
 		<p>мы будем очень благодарны за помощь в развитии</p> 
 		<b><p>карта alfa bank 5208 1300 1976 0002</p>
 		<p>карта belinvest bank 5578 8434 4450 8141</p>
@@ -28,4 +27,6 @@
 		
 		<hr>
 		
+		
+
 		
