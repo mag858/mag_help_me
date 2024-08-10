@@ -17,7 +17,7 @@
     <h2><center><b><font color = "#F3A000">future - right now</font></b></center>
 				<center><sup>(будующее - прямо сейчас)</sup></center></h2>
 				
-				<p><center><b>ПОМОЩЬ В РАЗВИТИИ</b><center></p>
+				<p><center><b>ПОМОЩЬ В РАЗВИТИИ</b><center>
 		<p>мы будем очень благодарны за помощь в развитии 
 		<b><p>карта alfa bank 5208 1300 1976 0002</p>
 		<p>карта belinvest bank 5578 8434 4450 8141</p>
